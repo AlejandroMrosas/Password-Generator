@@ -10,6 +10,6 @@ Today project I have created a password generator. If you are struggling with fi
 
 You have several options for how you can create a password for yourself.
 
-You can access this website by going to -
+You can access this website by going to https://alejandromrosas.github.io/Password-Generator/
 
 Enjoy!  
