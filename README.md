@@ -2,7 +2,7 @@
 
 Today project I have created a password generator. If you are struggling with finding a password this generator will help you do that. You can generate a password from 8 characters to 128 characters.  
 
-* Password Generator Options
+## Password Generator Options
 - Lower Case
 - Upper Case
 - Numbers
